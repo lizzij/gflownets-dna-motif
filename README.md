@@ -1,4 +1,4 @@
-# GFlowNets DNA Motif Mining
+# GFlowNet DNA Motif Mining
 DNA Motif Mining Using GFlowNets
 
 ## Presentation
