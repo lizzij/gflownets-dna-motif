@@ -1,6 +1,25 @@
 # GFlowNets-DNA-Motif
 DNA Motif Mining Using GFlowNets
 
+## Presentation
+
+<a href="https://docs.google.com/presentation/d/17UuohBDrauMJ-8QXMPxMIVf-NaWogCLzthcYYCflp94/edit?usp=sharing">View the full deck on Google Slides ↗</a>
+
+<p align="center">
+  <img src="slides/slide-01.png" width="100%" alt="Slide 1" />
+  <img src="slides/slide-02.png" width="100%" alt="Slide 2" />
+  <img src="slides/slide-03.png" width="100%" alt="Slide 3" />
+  <img src="slides/slide-04.png" width="100%" alt="Slide 4" />
+  <img src="slides/slide-05.png" width="100%" alt="Slide 5" />
+  <img src="slides/slide-06.png" width="100%" alt="Slide 6" />
+  <img src="slides/slide-07.png" width="100%" alt="Slide 7" />
+  <img src="slides/slide-08.png" width="100%" alt="Slide 8" />
+  <img src="slides/slide-09.png" width="100%" alt="Slide 9" />
+  <img src="slides/slide-10.png" width="100%" alt="Slide 10" />
+  <img src="slides/slide-11.png" width="100%" alt="Slide 11" />
+  <img src="slides/slide-12.png" width="100%" alt="Slide 12" />
+</p>
+
 ## Usage
 Please refer to each sub-directory for READMEs on how to install, setup and run.
 
