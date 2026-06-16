@@ -3,8 +3,6 @@ DNA Motif Mining Using GFlowNets
 
 ## Presentation
 
-<a href="https://docs.google.com/presentation/d/17UuohBDrauMJ-8QXMPxMIVf-NaWogCLzthcYYCflp94/edit?usp=sharing">View the full deck on Google Slides ↗</a>
-
 <p align="center">
   <img src="slides/slide-01.png" width="100%" alt="Slide 1" />
   <img src="slides/slide-02.png" width="100%" alt="Slide 2" />
